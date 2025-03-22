@@ -1,0 +1,5 @@
+.DS_Store
+.history/
+.specstory/
+node_modules/
+*.log 
