@@ -89,3 +89,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Credits
+
+Created by [Joe Devon](https://www.linkedin.com/in/joedevon/).
+
+## Follow Me
+
+Check out my podcast on [Accessibility and Gen. AI](https://www.youtube.com/@a11ygenai?sub_confirmation=1).
+
+Subscribe to my [LinkedIn newsletter](https://www.linkedin.com/newsletters/7240847501472194560/) to get updates on my projects and articles.
+
+Follow me on socials at @joedevon.
